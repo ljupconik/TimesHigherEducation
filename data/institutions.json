@@ -1,0 +1,42 @@
+[
+    {
+        "id": "73ddd3d9-740e-450e-8c15-f78cfa5f97d6",
+        "name": "New Brittany University",
+        "city": "New Brittany"
+    },
+    {
+        "id": "bf2dfcc6-c3ac-485f-bcdb-2b882cc05e3f",
+        "name": "University of West Cody",
+        "city": "West Cody"
+    },
+    {
+        "id": "69f4f955-a6b5-48e1-8288-32bb48fe342a",
+        "name": "University of Port Jessica",
+        "city": "Port Jessica"
+    },
+    {
+        "id": "d4619431-cf20-443b-a62b-98c26c248a59",
+        "name": "Lake Dawn University",
+        "city": "Lake Dawn"
+    },
+    {
+        "id": "35418bbe-4733-409c-a93c-a61a0d1d1af9",
+        "name": "University of Armstrongside",
+        "city": "Armstrongside"
+    },
+    {
+        "id": "2dc64b7b-99a2-4298-a0bb-10b192aedcab",
+        "name": "North Melissa University",
+        "city": "North Melissa"
+    },
+    {
+        "id": "54d7c81e-0994-450c-873e-d75a3bfd8857",
+        "name": "East Mary University",
+        "city": "East Mary"
+    },
+    {
+        "id": "fa77c222-af55-4a23-97ac-f9379206ce07",
+        "name": "University of Greenview",
+        "city": "Greenview"
+    }
+]

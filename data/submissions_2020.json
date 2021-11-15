@@ -1,0 +1,258 @@
+[
+    {
+        "id": "d1b410a1-0aa4-4e50-b0af-5f825cf94779",
+        "institution": "73ddd3d9-740e-450e-8c15-f78cfa5f97d6",
+        "year": 2020,
+        "staff_total": 92,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 39,
+                "students_total": 48,
+                "student_rating": 3.2
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 41,
+                "students_total": 316,
+                "student_rating": 2.7
+            },
+            {
+                "name": "History",
+                "academic_papers": 41,
+                "students_total": 161,
+                "student_rating": 3.5
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 72,
+                "students_total": 33,
+                "student_rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "6b5b7699-666d-4b83-b3f7-e53ce1d9a4e9",
+        "institution": "bf2dfcc6-c3ac-485f-bcdb-2b882cc05e3f",
+        "year": 2020,
+        "staff_total": 22,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 92,
+                "students_total": 105,
+                "student_rating": 2.5
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 32,
+                "students_total": 274,
+                "student_rating": 3.0
+            },
+            {
+                "name": "History",
+                "academic_papers": 33,
+                "students_total": 429,
+                "student_rating": 1.3
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 79,
+                "students_total": 260,
+                "student_rating": 3.4
+            }
+        ]
+    },
+    {
+        "id": "efa1864d-2580-49e5-a861-d62fa1409eed",
+        "institution": "69f4f955-a6b5-48e1-8288-32bb48fe342a",
+        "year": 2020,
+        "staff_total": 63,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 42,
+                "students_total": 7,
+                "student_rating": 2.9
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 1,
+                "students_total": 363,
+                "student_rating": 2.6
+            },
+            {
+                "name": "History",
+                "academic_papers": 72,
+                "students_total": 88,
+                "student_rating": 4.0
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 12,
+                "students_total": 274,
+                "student_rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "b6eab71f-4570-45a1-b330-24692a774b94",
+        "institution": "d4619431-cf20-443b-a62b-98c26c248a59",
+        "year": 2020,
+        "staff_total": 61,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 48,
+                "students_total": 340,
+                "student_rating": 2.7
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 29,
+                "students_total": 172,
+                "student_rating": 1.0
+            },
+            {
+                "name": "History",
+                "academic_papers": 74,
+                "students_total": 278,
+                "student_rating": 4.4
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 56,
+                "students_total": 368,
+                "student_rating": 3.0
+            }
+        ]
+    },
+    {
+        "id": "58df03e5-3f23-4e12-a1a9-f64aaa89d060",
+        "institution": "35418bbe-4733-409c-a93c-a61a0d1d1af9",
+        "year": 2020,
+        "staff_total": 1,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 56,
+                "students_total": 499,
+                "student_rating": 3.5
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 29,
+                "students_total": 317,
+                "student_rating": 4.0
+            },
+            {
+                "name": "History",
+                "academic_papers": 63,
+                "students_total": 268,
+                "student_rating": 4.7
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 34,
+                "students_total": 379,
+                "student_rating": 2.4
+            }
+        ]
+    },
+    {
+        "id": "ab1b505b-47eb-4ae2-86f9-6774dafbcd10",
+        "institution": "2dc64b7b-99a2-4298-a0bb-10b192aedcab",
+        "year": 2020,
+        "staff_total": 36,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 54,
+                "students_total": 285,
+                "student_rating": 4.3
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 46,
+                "students_total": 382,
+                "student_rating": 2.7
+            },
+            {
+                "name": "History",
+                "academic_papers": 65,
+                "students_total": 388,
+                "student_rating": 2.8
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 86,
+                "students_total": 178,
+                "student_rating": 2.6
+            }
+        ]
+    },
+    {
+        "id": "149a21cd-5c99-4d83-8d56-feff6b26ebad",
+        "institution": "54d7c81e-0994-450c-873e-d75a3bfd8857",
+        "year": 2020,
+        "staff_total": 79,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 61,
+                "students_total": 405,
+                "student_rating": 4.6
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 95,
+                "students_total": 63,
+                "student_rating": 3.6
+            },
+            {
+                "name": "History",
+                "academic_papers": 40,
+                "students_total": 179,
+                "student_rating": 3.0
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 37,
+                "students_total": 389,
+                "student_rating": 2.8
+            }
+        ]
+    },
+    {
+        "id": "03bb41fc-9bb6-4f35-b16f-7c99c7155f95",
+        "institution": "fa77c222-af55-4a23-97ac-f9379206ce07",
+        "year": 2020,
+        "staff_total": 85,
+        "subjects": [
+            {
+                "name": "Biology",
+                "academic_papers": 48,
+                "students_total": 62,
+                "student_rating": 2.2
+            },
+            {
+                "name": "Chemistry",
+                "academic_papers": 63,
+                "students_total": 261,
+                "student_rating": 3.3
+            },
+            {
+                "name": "History",
+                "academic_papers": 20,
+                "students_total": 253,
+                "student_rating": 3.5
+            },
+            {
+                "name": "Maths",
+                "academic_papers": 88,
+                "students_total": 251,
+                "student_rating": 3.6
+            }
+        ]
+    }
+]
